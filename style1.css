@@ -29,7 +29,7 @@ h1{
 }
 table {
     width: 100%;
-    margin-left: 28px;
+    margin-left: 20%;
     margin-top: 20px;
   }
 .welcome{
@@ -107,9 +107,9 @@ table {
       .createtext{
           margin-top:30px; 
     .welcome{
-        margin-top:40%
+        margin-top:40%;
         position: absolute;
-        top: 40%
+        top: 300px;
         left: 35%;
         height: 35%;
     width: 50%;
