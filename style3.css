@@ -127,9 +127,9 @@ table {
         
     }
     .welcome{
-        
-        left: 20%;
-        height: 27%;
+        top: 20%
+        left: 25%;
+        height: 35%;
     width: 50%;
     }
   }
