@@ -1,5 +1,5 @@
 body{
-    background-image: url("2.png");
+    background-image: url("4.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -112,7 +112,7 @@ table {
 @media screen and (max-width: 1537px) {
 
     body{
-        background-image: url("7.png") ;
+        background-image: url("5.png") ;
         
     }
     .welcome{
