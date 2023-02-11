@@ -120,7 +120,7 @@ table {
         left: 18%;
     }
   }
-  @media screen and (max-width: 725px) {
+  @media screen and (max-width: 1081px) {
 
     body{
         background-image: url("7.png") ;
