@@ -47,3 +47,27 @@ a{
     top: 20%;
     left:26%;
 }
+@media screen and (max-width: 1437px) {
+
+    body{
+        background-image: url("2a.png") ;
+        background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    }
+    .welcome{
+        top: 25%;
+        left: 8%;
+    }
+  }
+  @media screen and (max-width: 1081px) {
+
+    body{
+        background-image: url("8.png") ;
+        
+    }
+    .welcome{
+        top: 45%;
+        left: 18%;
+    }
+  }
