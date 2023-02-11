@@ -109,7 +109,7 @@ table {
     margin-top: 20px;
 }
 
-@media screen and (max-width: 1537px) {
+@media screen and (max-width: 1337px) {
 
     body{
         background-image: url("5.png") ;
@@ -127,7 +127,7 @@ table {
         
     }
     .welcome{
-        top: 18%;
+        top: 55%;
         left: 18%;
     }
   }
