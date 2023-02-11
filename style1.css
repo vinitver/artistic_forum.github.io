@@ -104,9 +104,9 @@ table {
         
     }
     .welcome{
-        top: 350px
+        top: 350px;
         left: 20%;
-        height: 27%;
-    width: 50%;
+        height: 10%;
+    width: 30%;
     }
   }
