@@ -7,7 +7,7 @@ body{
 td{
     height: 40px;
     width: 5px;
-    padding-bottom: 34px;
+    padding-bottom: 10%;
 }
 
 hr{
@@ -81,7 +81,7 @@ table {
 .buttony{
     width: 80%;
     margin-left: 10%;
-    margin-top: 10%;
+    margin-top: 5%;
 }
 .alreadyaccount{
     margin-top: 20px;
