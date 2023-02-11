@@ -85,3 +85,25 @@ table {
 .alreadyaccount{
     margin-top: 20px;
 }
+@media screen and (max-width: 1337px) {
+
+    body{
+        background-image: url("5.png") ;
+        
+    }
+    .welcome{
+        top: 18%;
+        left: 18%;
+    }
+  }
+  @media screen and (max-width: 1081px) {
+
+    body{
+        background-image: url("7.png") ;
+        
+    }
+    .welcome{
+        top: 55%;
+        left: 18%;
+    }
+  }
