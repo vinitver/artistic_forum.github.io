@@ -104,7 +104,10 @@ table {
         background-image: url("7.png") ;
         
     }
+      .createtext{
+          margin-top:30px; 
     .welcome{
+        margin-top:40%
         position: absolute;
         top: 40%
         left: 35%;
