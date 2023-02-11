@@ -51,15 +51,15 @@ table {
 }
 
 .nametext{
-    font-size: 18px;
-    margin-left: 5px;
+    font-size: 130%;
+    margin-left: 10%;
     color: rgb(74, 71, 71);
     
     font-family: 'Lato', sans-serif;
 }
 
 .nameenter{
-    height: 35px;
+    height: 40px;
     width: 240px;
     border: 1px solid #ccc;
     border-radius: 4px;
@@ -79,8 +79,9 @@ table {
     border: 0ch;
 }
 .buttony{
-    margin-left: 40px;
-    margin-top: 40px;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 10%;
 }
 .alreadyaccount{
     margin-top: 20px;
