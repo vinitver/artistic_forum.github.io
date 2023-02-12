@@ -107,6 +107,9 @@ table {
       h1{
           padding-top:18px;
       }
+      .alreadyaccount{
+        font-size: 2rem;
+      }
     .welcome{
         top: 40%;
         left: 25%;
