@@ -126,11 +126,19 @@ table {
         background-image: url("7.png") ;
         
     }
+      h1{
+       padding-top: 10px;   
+      }
      .welcome{
         top: 40%;
-        left: 22%;
+        left: 25%;
         height: 590px;
-    width: 470px;
+    width: 462px;
     }
+      .buttony{
+    width: 86%;
+    margin-left: 12%;
+    margin-top: 5%;
+}
   
   }
