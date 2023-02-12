@@ -126,10 +126,11 @@ table {
         background-image: url("7.png") ;
         
     }
-    .welcome{
-        top: 35%;
-        left: 18%;
-        height: 510;
-    width: 420;
+     .welcome{
+        top: 40%;
+        left: 22%;
+        height: 590px;
+    width: 470px;
     }
+  
   }
