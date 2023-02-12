@@ -29,12 +29,12 @@ h1{
 }
 table {
     width: 100%;
-    margin-left: 20%;
+    margin-left: 28px;
     margin-top: 20px;
   }
 .welcome{
-    height: 70%;
-    width: 28%;
+    height: 510px;
+    width: 420px;
     background-color: white;
    
     position: absolute;
@@ -104,13 +104,10 @@ table {
         background-image: url("7.png") ;
         
     }
-      .createtext{
-          margin-top:30px; 
     .welcome{
-        margin-top:20%;
-       
-
-        height: 25%;
-    width: 530px;
+        top: 35%;
+        left: 18%;
+        height: 510px;
+    width: 420;
     }
   }
