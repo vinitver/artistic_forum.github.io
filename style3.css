@@ -135,6 +135,12 @@ table {
         height: 590px;
     width: 462px;
     }
+      .img{
+        height: 130px;
+          width: 130px;
+          margin-bottom: 30px;
+      }
+      
       .buttony{
     width: 86%;
     margin-left: 12%;
